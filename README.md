@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! My name is seungsu Jeong. I am learning software at Gachon University. 🌱
+I am interesting in information security!
 
 <!--
 **lazyduck34929/lazyduck34929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
